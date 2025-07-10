@@ -1054,7 +1054,7 @@ flex-wrap: wrap;
 @media(max-width:1604px){
   .web-site-end{
   position: absolute;
-  top: 1300px;
+  top: 1000px;
   left: 0;
   display: flex;
   justify-content: space-between;
