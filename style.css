@@ -787,7 +787,7 @@ li {
 
 
 
-.cost {
+.container {
   width: 90%;
   max-width: 1200px;
   margin: 20px auto;
@@ -1054,7 +1054,7 @@ flex-wrap: wrap;
 @media(max-width:1604px){
   .web-site-end{
   position: absolute;
-  top: 1000px;
+  top: 1300px;
   left: 0;
   display: flex;
   justify-content: space-between;
